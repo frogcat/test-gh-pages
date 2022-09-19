@@ -1,0 +1,20 @@
+{
+  "name": "test-gh-pages",
+  "version": "1.0.0",
+  "description": "test-gh-pages",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js",
+    "clean": "rm -fR dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frogcat/test-gh-pages.git"
+  },
+  "author": "frogcat",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/frogcat/test-gh-pages/issues"
+  },
+  "homepage": "https://github.com/frogcat/test-gh-pages#readme"
+}
